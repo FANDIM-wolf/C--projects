@@ -1,0 +1,16 @@
+D:\Construct\Construct\bin\Debug\net5.0\Construct.exe
+D:\Construct\Construct\bin\Debug\net5.0\Construct.deps.json
+D:\Construct\Construct\bin\Debug\net5.0\Construct.runtimeconfig.json
+D:\Construct\Construct\bin\Debug\net5.0\Construct.runtimeconfig.dev.json
+D:\Construct\Construct\bin\Debug\net5.0\Construct.dll
+D:\Construct\Construct\bin\Debug\net5.0\ref\Construct.dll
+D:\Construct\Construct\bin\Debug\net5.0\Construct.pdb
+D:\Construct\Construct\obj\Debug\net5.0\Construct.csprojAssemblyReference.cache
+D:\Construct\Construct\obj\Debug\net5.0\Construct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Construct\Construct\obj\Debug\net5.0\Construct.AssemblyInfoInputs.cache
+D:\Construct\Construct\obj\Debug\net5.0\Construct.AssemblyInfo.cs
+D:\Construct\Construct\obj\Debug\net5.0\Construct.csproj.CoreCompileInputs.cache
+D:\Construct\Construct\obj\Debug\net5.0\Construct.dll
+D:\Construct\Construct\obj\Debug\net5.0\ref\Construct.dll
+D:\Construct\Construct\obj\Debug\net5.0\Construct.pdb
+D:\Construct\Construct\obj\Debug\net5.0\Construct.genruntimeconfig.cache
