@@ -1,0 +1,16 @@
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\Cells_Life.exe
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\Cells_Life.deps.json
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\Cells_Life.runtimeconfig.json
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\Cells_Life.runtimeconfig.dev.json
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\Cells_Life.dll
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\ref\Cells_Life.dll
+D:\Сells\Cells_Life\Cells_Life\bin\Debug\net5.0\Cells_Life.pdb
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.csprojAssemblyReference.cache
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.AssemblyInfoInputs.cache
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.AssemblyInfo.cs
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.csproj.CoreCompileInputs.cache
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.dll
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\ref\Cells_Life.dll
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.pdb
+D:\Сells\Cells_Life\Cells_Life\obj\Debug\net5.0\Cells_Life.genruntimeconfig.cache
